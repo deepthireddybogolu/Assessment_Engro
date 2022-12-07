@@ -1,0 +1,20 @@
+PODS:
+  - BSImagePicker (3.3.1)
+  - KDDragAndDropCollectionViews (1.5.2)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 3.1)
+  - KDDragAndDropCollectionViews (~> 1.5.2)
+
+SPEC REPOS:
+  trunk:
+    - BSImagePicker
+    - KDDragAndDropCollectionViews
+
+SPEC CHECKSUMS:
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  KDDragAndDropCollectionViews: 69a4a5c6a2d98852de35bd469b394defb1fc9f7b
+
+PODFILE CHECKSUM: 392e62baa0dc244a7353130d510769a2d5bdf67b
+
+COCOAPODS: 1.11.3
